@@ -26,5 +26,6 @@
   },
   "devDependencies": {
     "microbundle": "^0.15.1"
-  }
+  },
+  "files": ["dist", "package.json", "README.md"]
 }
