@@ -1,6 +1,6 @@
 {
   "name": "html-pdf-pup",
-  "version": "1.0.5",
+  "version": "1.0.8",
   "description": "HTML to PDF converter that uses puppeteer",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
